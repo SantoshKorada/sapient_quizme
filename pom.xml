@@ -13,7 +13,7 @@
 	<artifactId>sapient_quizme</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1</version>
-	<name>sapient_quizme</name>
+	<name>quizme</name>
 	<description>Sapient API merging</description>
 	<properties>
 		<java.version>1.8</java.version>
@@ -93,6 +93,7 @@
 	</profiles>
 
 	<build>
+	<finalName>ROOT</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
