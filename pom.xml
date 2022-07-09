@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.sapient</groupId>
 	<artifactId>sapient_quizme</artifactId>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<version>0.0.1</version>
 	<name>quizme</name>
 	<description>Sapient API merging</description>
