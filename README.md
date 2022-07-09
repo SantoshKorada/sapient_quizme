@@ -1,10 +1,10 @@
 # Quiz Me API
 
 # Swagger URL
-http://localhost:8080/swagger-ui/
+https://quizme-sapient.herokuapp.com/swagger-ui/
 
 # Info API :: To get infrastructure information of application
-http://localhost:8080/actuator/info
+https://quizme-sapient.herokuapp.com/actuator
 
 # Sample Request
-http://localhost:8080/quizme/news-search/apple
+https://quizme-sapient.herokuapp.com/quizme/news-search/apple
